@@ -1,12 +1,6 @@
-####################################################
-
-Codemix Generation Using RNN Language Model
-(Introduction to NLP COurse Project)
-
-By: Akshay Bankar(2019201011) & Gajanan Modi(2019201049)
-
-
-###################################################
+# Codemix Generation Using RNN Language Model
+# (Introduction to NLP COurse Project)
+# By: Akshay Bankar(2019201011) & Gajanan Modi(2019201049)
 
 - Folder Structure: Contains four folders:
 	- Code: Python files and notebooks for codes of baseline mode, baseline+ model, helper functions, and POS-tag code.
